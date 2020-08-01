@@ -4,6 +4,7 @@ import './menu.css'
 //import ButtonLink from '../ButtonLink'
 import Button from '../Button'
 
+
 function Menu(){
     return (
         <nav className="Menu">
@@ -13,6 +14,7 @@ function Menu(){
             <Button className="ButtonLink" href="/">
                 Novo Vídeo
             </Button>
+            
         </nav>
     )
 }
