@@ -1,4 +1,4 @@
-import React from 'react';
+import React from './node_modules/react';
 import Logo from '../../assets/img/Logo.png'
 import './menu.css'
 import Button from '../Button'
